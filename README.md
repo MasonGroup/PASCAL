@@ -2,6 +2,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/MasonGroup/PASCAL/main/image.png?token=GHSAT0AAAAAACWFPMWMVONSGOJKVT3QTPLKZWZ42YA" alt="Image">
 </p>
+
+
 **Author**: ABOLHB  
 **Type**: Malware  
 **Features**: GDI Effects, Rootkit, Task Manager Disabler  
